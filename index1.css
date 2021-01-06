@@ -1,0 +1,184 @@
+.container-fluid{
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+    overflow: hidden;
+}
+
+
+.List{
+    background-color: rgb(41, 38, 38);
+    opacity: 0.8;
+    height: 100vh;
+}
+
+.UlList{
+    position: absolute;
+    top: 17rem;
+    left: 6rem;
+    font-size: larger;
+    font-weight: bolder;
+}
+.row{
+    background-color: rgb(179, 168, 168);
+}
+.img-wrapper img{
+    margin-left: 4rem;
+   filter: brightness(65%);
+}
+
+.Edit-img-wrapper-H4{
+    margin-left: 3.4rem;
+}
+
+.img-wrapper-span{
+    font-size: 0.8rem;
+}
+
+.heading {
+    margin-left: 20%;
+    margin-top: 0.2%;
+    margin-bottom: 0.1rem;
+    font-size: 2.2rem;
+    color: red !important;
+}
+.gallary_heading {
+    margin-left: 28%;
+    margin-top: 0.2%;
+    margin-bottom: 0.1rem;
+    font-size: 2.2rem;
+    color: red !important;
+}
+
+.EditPara p{
+    font-size: larger;
+}
+
+@media only screen and (max-width: 350px) and (min-width: 0px){
+    .UlList{
+        position: absolute;
+        top: 17rem;
+        left: 4.9rem;
+        font-size: 1rem;
+        font-weight: bolder;
+    }
+
+    .heading {
+        margin-left: 5%;
+        width: 100%;
+        margin-top: 0.2%;
+        margin-bottom: 1rem;
+        font-size: 1.7rem;
+        color: red !important;
+    }
+    
+    .EditPara p{
+        font-size: large;
+        margin-left: 1rem;
+        margin-right: 1rem;
+        text-align: justify;
+    }
+
+    .EditPara h5{
+        margin-left: 2rem;
+        font-size: 23px;
+    }
+    .EditRowForMedia h5{
+        text-align: justify;
+        margin-left: 3.9rem;
+        font-size: 19px;
+    }
+
+    .EditRowForMedia h6{
+        text-align: justify;
+        margin-left: 4.5rem;
+        font-size: 15px;
+    }
+
+    .EditRowForMediaa h5{
+        text-align: justify;
+        margin-left: 6.3rem;
+        font-size: 19px;
+    }
+
+    .EditRowForMediaa h6{
+        text-align: justify;
+        margin-left: 4.5rem;
+        font-size: 15px;
+    }
+
+}
+
+@media only screen and (max-width:480px) and (min-width:351px){
+    .UlList{
+        position: absolute;
+        top: 17rem;
+        left: 4.9rem;
+        font-size: 1rem;
+        font-weight: bolder;
+    }
+
+    .heading {
+        margin-left: 5%;
+        width: 100%;
+        margin-top: 0.2%;
+        margin-bottom: 1rem;
+        font-size: 1.7rem;
+        color: red !important;
+    }
+    .gallary_heading {
+        margin-left: 15%;
+        margin-top: 0.2%;
+        margin-bottom: 0.1rem;
+        font-size: 2rem;
+        width: 100%;
+        color: red !important;
+    }
+    
+    .EditPara p{
+        font-size: large;
+        margin-left: 1rem;
+        margin-right: 1rem;
+        text-align: justify;
+    }
+
+    .EditPara h5{
+        margin-left: 2rem;
+        font-size: 23px;
+    }
+    .EditRowForMedia h5{
+        text-align: justify;
+        margin-left: 3.9rem;
+        font-size: 19px;
+    }
+
+    .EditRowForMedia h6{
+        text-align: justify;
+        margin-left: 4.5rem;
+        font-size: 15px;
+    }
+
+    .EditRowForMediaa h5{
+        text-align: justify;
+        margin-left: 6.3rem;
+        font-size: 19px;
+    }
+
+    .EditRowForMediaa h6{
+        text-align: justify;
+        margin-left: 4.5rem;
+        font-size: 15px;
+    }
+}
+
+@media only screen and (max-width:600px) and (min-width:481px){
+    
+}
+@media only screen and (max-width:801px) and (min-width:601px){
+
+}
+@media only screen and (max-width:1025px) and (min-width:802px){
+
+}
+@media only screen and (max-width:1281px) and (min-width:1026px){
+    
+}
